@@ -33,11 +33,11 @@ class GameEngineTest {
 
     @Test
     public void testEvaluateGuessAllLettersInWrongPosition() {
-        String targetWord = "abcdef";
-        String guess = "fedcba";
+        String targetWord = "abcde";
+        String guess = "badec";
         String result = GameEngine.evaluateGuess(targetWord, guess);
 
-        assertEquals("++++++", result, "All letters exist in the word but are in the wrong position.");
+        assertEquals("+++++", result, "All letters exist in the word but are in the wrong position.");
     }
 
     @Test
