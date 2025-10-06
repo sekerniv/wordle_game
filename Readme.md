@@ -1,6 +1,6 @@
 # Wordle Game (Java Assignment)
 
-📄 [Hebrew Instructions](https://docs.google.com/document/d/145s9pmkx0d2R-P5xSY30v6Hus1IbrZkAXfpHIhw7Y14/edit?tab=t.0)
+📄 [Hebrew Instructions](https://docs.google.com/document/d/1ZhTEF43M-e4OcPDgtxlToVmKt00ZHKx74ne2LxUPSrE)
 
 This project is a basic implementation of the game **[Wordle](https://www.nytimes.com/games/wordle)** (by NYT) in Java.
 
